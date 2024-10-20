@@ -136,4 +136,7 @@ p{
     font-size: 2rem;
     padding: 10px;
 }
-
+.list{
+    font-family: monospace;
+    font-size: 2rem;
+}
