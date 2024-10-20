@@ -1,0 +1,139 @@
+.logo{
+    font-family: monospace;
+    font-size: 40px;
+    margin-bottom: 5px;
+    margin-top: 15px;
+}
+
+head{
+    margin: 0px;
+
+}
+
+.container{
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+}
+
+.container h1{
+    padding-left: 40px;
+}
+
+.buthere{
+    float: right;
+    margin-left: 15px;
+}
+
+.but1{
+    margin-left: 50px;
+    text-align: center;
+    border: none;
+    padding: 20px;
+    width: 120px;
+    margin: 10px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 20px;
+    font-family: monospace;
+    background-color: lightblue;
+
+}
+
+.but2{
+    text-align: center;
+    border: none;
+    padding: 20px;
+    width: 120px;
+    margin: 10px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 20px;
+    font-family: monospace;
+    background-color: lightcoral;
+
+}
+
+.but3{
+    text-align: center;
+    border: none;
+    padding: 20px;
+    width: 120px;
+    margin: 10px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 20px;
+    font-family: monospace;
+    background-color: rgb(251, 251, 89);
+
+}
+
+.container2{
+    display: flex;
+    justify-content: space-between;
+
+
+}
+
+.d1{
+    margin: 10px;
+    padding: 10px;
+    margin-left: 20px;
+    background-color: rgb(233, 247, 185);
+    height: auto;
+    width: 50vw;
+    border-radius: 10px;
+}
+
+.d2{
+    background-image: url(space.jpg);
+    position: cover;
+    margin: 10px;
+    padding: 10px;
+    margin-right: 20px;
+    background-color: rgb(206, 206, 206);
+    height: auto;
+    width: 50vw;
+    border-radius: 10px;
+}
+
+.d3{
+    position: cover;
+    margin: 10px;
+    padding: 10px;
+    margin-right: 20px;
+    background-color: rgb(168, 200, 252);
+    height: auto;
+    width: 50vw;
+    border-radius: 10px;
+    
+}
+
+.d4{
+    background-image: url(image.png);
+    background-size: cover;
+    background-color: rgb(252, 254, 161);
+    margin: 10px;
+    padding: 10px;
+    margin-left: 20px;
+    height: auto;
+    width: 50vw;
+    border-radius: 10px;
+}
+.header{
+    border-radius:10px ;
+    background-color: tomato;
+    text-align: center; 
+
+}
+
+.about{
+    font-family: monospace;
+}
+
+p{
+    font-family: monospace;
+    font-size: 2rem;
+    padding: 10px;
+}
+
