@@ -137,6 +137,10 @@ p{
     padding: 10px;
 }
 .list{
+    list-style-type:none;
+}
+
+.list li{
     font-family: monospace;
     font-size: 2rem;
 }
